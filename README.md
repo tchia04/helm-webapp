@@ -6,7 +6,7 @@ helm create webapp1
 
 
 # Follow along with the video
-- Create the files per the video, copying and pasting from templates-original
+- Create the files per the video at https://www.youtube.com/watch?v=jUYNS90nq8U&t=147s, copying and pasting from templates-original
 - you can also use the files in the solution folder
 
 # Install the first one
